@@ -1,0 +1,1 @@
+{"type":"module","name":"aegis-cyber","version":"1.0.0","private":true,"engines":{"node":">=24"},"scripts":{"build":"node build.mjs","start":"node local.mjs","test":"node --test test/*.test.mjs"}}
